@@ -1,0 +1,1 @@
+minergate-cli --user laspa@gmail.com --xmr 4
